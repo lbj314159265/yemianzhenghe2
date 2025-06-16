@@ -11,7 +11,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("机器学习项目大致流程")
+st.image("https://www.gxvnu.edu.cn/images/QQtupian20240701090920_fuben.png")
 # 创建选项卡
 tab1, tab2, tab3,tab4 = st.tabs(["个人简历生成器", "南宁美食", "视频播放器","数字档案"])
 with tab1:   
